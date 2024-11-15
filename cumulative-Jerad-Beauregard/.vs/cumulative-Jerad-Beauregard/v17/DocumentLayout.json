@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\controllers\\courseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:controllers\\courseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\controllers\\coursepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:controllers\\coursepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\controllers\\studentpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:controllers\\studentpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\views\\teacherpage\\lists.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:views\\teacherpage\\lists.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\views\\coursepage\\lists.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:views\\coursepage\\lists.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\views\\coursepage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:views\\coursepage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\views\\studentpage\\lists.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:views\\studentpage\\lists.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\views\\studentpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:views\\studentpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\cumulative-jerad-beauregard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:cumulative-jerad-beauregard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwGEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:32:41.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\CourseAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseAPIController.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\CourseAPIController.cs",
+              "RelativeToolTip": "Controllers\\CourseAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:33:11.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoursePageController.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\CoursePageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursePageController.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\CoursePageController.cs",
+              "RelativeToolTip": "Controllers\\CoursePageController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:48:32.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "Models\\SchoolDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:18:23.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:14:05.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:18:11.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:22:43.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentPageController.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\StudentPageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentPageController.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\StudentPageController.cs",
+              "RelativeToolTip": "Controllers\\StudentPageController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:48:06.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeacherPageController.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\TeacherPageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherPageController.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\TeacherPageController.cs",
+              "RelativeToolTip": "Controllers\\TeacherPageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:13:44.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeacherAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\TeacherAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherAPIController.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\TeacherAPIController.cs",
+              "RelativeToolTip": "Controllers\\TeacherAPIController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwF4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:14:34.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lists.cshtml",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\TeacherPage\\Lists.cshtml",
+              "RelativeDocumentMoniker": "Views\\TeacherPage\\Lists.cshtml",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\TeacherPage\\Lists.cshtml",
+              "RelativeToolTip": "Views\\TeacherPage\\Lists.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T21:16:37.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:51:25.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\TeacherPage\\Show.cshtml",
+              "RelativeDocumentMoniker": "Views\\TeacherPage\\Show.cshtml",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\TeacherPage\\Show.cshtml",
+              "RelativeToolTip": "Views\\TeacherPage\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T21:16:57.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\StudentPage\\Show.cshtml",
+              "RelativeDocumentMoniker": "Views\\StudentPage\\Show.cshtml",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\StudentPage\\Show.cshtml",
+              "RelativeToolTip": "Views\\StudentPage\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T19:49:52.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\CoursePage\\Show.cshtml",
+              "RelativeDocumentMoniker": "Views\\CoursePage\\Show.cshtml",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\CoursePage\\Show.cshtml",
+              "RelativeToolTip": "Views\\CoursePage\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T19:50:29.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lists.cshtml",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\CoursePage\\Lists.cshtml",
+              "RelativeDocumentMoniker": "Views\\CoursePage\\Lists.cshtml",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\CoursePage\\Lists.cshtml",
+              "RelativeToolTip": "Views\\CoursePage\\Lists.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T19:50:08.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lists.cshtml",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\StudentPage\\Lists.cshtml",
+              "RelativeDocumentMoniker": "Views\\StudentPage\\Lists.cshtml",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\StudentPage\\Lists.cshtml",
+              "RelativeToolTip": "Views\\StudentPage\\Lists.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T19:49:16.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "cumulative-Jerad-Beauregard.csproj",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\cumulative-Jerad-Beauregard.csproj",
+              "RelativeDocumentMoniker": "cumulative-Jerad-Beauregard.csproj",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\cumulative-Jerad-Beauregard.csproj",
+              "RelativeToolTip": "cumulative-Jerad-Beauregard.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T23:33:04.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
