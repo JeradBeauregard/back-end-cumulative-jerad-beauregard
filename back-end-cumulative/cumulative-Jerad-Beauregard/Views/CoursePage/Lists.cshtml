@@ -1,0 +1,12 @@
+﻿@model IEnumerable<cumulative_Jerad_Beauregard.Models.Course>
+
+<h1>Courses</h1>
+
+<a href="/CoursePage/New"><h2>Add a new course</h2></a>
+
+@foreach (cumulative_Jerad_Beauregard.Models.Course CurrentCourse in Model)
+{
+	<div>
+		<a href="/CoursePage/Show/@CurrentCourse.CourseId">@CurrentCourse.CourseName</a>
+	</div>
+}

@@ -1,0 +1,12 @@
+﻿@model IEnumerable<cumulative_Jerad_Beauregard.Models.Student>
+
+<h1>Students</h1>
+
+<a href="/StudentPage/New"><h2>Add a new student</h2></a>
+
+@foreach (cumulative_Jerad_Beauregard.Models.Student CurrentStudent in Model)
+{
+	<div>
+		<a href="/StudentPage/Show/@CurrentStudent.StudentId">@CurrentStudent.StudentFName @CurrentStudent.StudentLName</a>
+	</div>
+}

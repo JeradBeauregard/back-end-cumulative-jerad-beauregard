@@ -1,0 +1,25 @@
+﻿
+<style>
+
+	form {
+		display: flex;
+		flex-direction: column;
+	}
+
+</style>
+
+
+<h1>Add a new student</h1>
+<div id="formcontainer">
+	<form name="addstudent" method="post" action="/StudentPage/Create">
+		<label for="firstname">FIRST NAME: </label>
+		<input name="firstname" id="firstname" />
+		<label for="lastname">LAST NAME: </label>
+		<input name="lastname" id="lastname" />
+		<label for="studentnumber" >STUDENT NUMBER:</label>
+		<input name="studentnumber" id="studentnumber" />
+		<label for="enroldate">ENROLL DATE: </label>
+		<input name="enroldate" id="enroldate" />
+		<button type="submit">SUBMIT</button>
+	</form> 
+</div>

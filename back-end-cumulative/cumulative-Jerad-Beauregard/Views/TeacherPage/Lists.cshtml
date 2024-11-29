@@ -1,0 +1,48 @@
+﻿@model IEnumerable<cumulative_Jerad_Beauregard.Models.Teacher>
+
+@{
+	var SearchedTeachers = ViewData["teachersearch"] as List<cumulative_Jerad_Beauregard.Models.Teacher>;
+	var AllTeachers = ViewData["teachers"] as List<cumulative_Jerad_Beauregard.Models.Teacher>;
+
+}
+
+<h1>Teachers</h1>
+
+<form name="HireDate" method="post">
+	<p>Search for a teacher within a hiring range:</p>
+	<label name="StartDate" for="StartDate">Start Date: </label>
+	<input name="StartDate" />
+	<label name="EndDate" for="EndDate">End Date: </label>
+	<input name="EndDate" />
+	<button type="submit">Search</button>
+</form>
+
+<a href="/TeacherPage/New"><h2>Add a Teacher</h2></a>
+
+<h2>SEARCHED TEACHERS</h2>
+
+@foreach (cumulative_Jerad_Beauregard.Models.Teacher SearchedTeacher in SearchedTeachers)
+{
+	<div>
+		<a href="/TeacherPage/Show/@SearchedTeacher.TeacherId">@SearchedTeacher.TeacherFName @SearchedTeacher.TeacherLName</a>
+	</div>
+}
+
+
+<h2>ALL TEACHER</h2>
+
+@foreach (cumulative_Jerad_Beauregard.Models.Teacher CurrentTeacher in AllTeachers)
+{
+	<div>
+		<a href="/TeacherPage/Show/@CurrentTeacher.TeacherId">@CurrentTeacher.TeacherFName @CurrentTeacher.TeacherLName</a>
+	</div>
+}
+
+
+
+
+
+
+
+
+

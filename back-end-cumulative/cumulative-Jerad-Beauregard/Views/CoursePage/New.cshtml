@@ -1,0 +1,24 @@
+﻿<style>
+
+	form{
+		display:flex;
+		flex-direction: column;
+	}
+
+</style>
+
+
+<h1> Add a New Course</h1>
+<form method="POST" action="/CoursePage/Create">
+	<label for="coursecode">COURSE CODE: </label>
+	<input name="coursecode" id="coursecode" />
+	<label for="teacherid">TEACHER ID: </label>
+	<input name="teacherid" id="teacherid" />
+	<label for="startdate">START DATE: </label>
+	<input name="startdate" id="startdate" />
+	<label for="enddate">END DATE: </label>
+	<input name="enddate" id="enddate" />
+	<label for="coursename">COURSE NAME:</label>
+	<input name="coursename" id="coursename" />
+	<button type="submit">SUBMIT</button>
+</form>
