@@ -23,7 +23,15 @@ This program allows the user to access information from a school database via a 
 - User can access a list of courses via -> http://localhost:5016/Coursepage/lists
 - User can access more information on courses at the selected course link
 - User can Search for a course by ID via -> http://localhost:5016/api/Course/findcourse/{id}
-- 
+- User can Add a teacher through web interface at -> http:/localhost:5016/TeacherPage/New
+- Note: Hire date must be formatted like this: 2014-06-10 00:00:00
+- User can Delete a Teacher through web interface at -> http:/localhost:5016/TeacherPage/DeleteConfirm/{id}
+- User can Add a student through web interface at -> http:/localhost:5016/StudentPage/New
+- Note: Enroll Date must be formatted like this: 2018-06-18
+- User can Delete a student through web interface at -> http:/localhost:5016/StudentPage/DeleteConfirm/{id}
+- User can Add a course through the web interface at ->http:/localhost:5016/CoursePage/New
+- Note Start date and end dates must be formatted like this: 2018-06-18
+- User can Delete a course through the web interface at -> http:/localhost:5016/CoursePage/DeleteConfirm/{id}
 
 ### **5. Installation**
 - Must install and set up school database and insure that the connection data matches your local data (roots etc.)
