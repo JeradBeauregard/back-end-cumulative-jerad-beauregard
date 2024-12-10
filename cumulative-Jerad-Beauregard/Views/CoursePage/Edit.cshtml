@@ -1,0 +1,29 @@
+﻿@model cumulative_Jerad_Beauregard.Models.Course
+@{
+	var SelectedCourse = ViewData["selectedcourse"] as Course;
+	
+}
+
+
+<style>
+
+	form {
+		display: flex;
+		flex-direction: column;
+	}
+
+</style>
+<h1>EDIT THIS COURSE: @SelectedCourse.CourseName</h1>
+<form name="updatecourse" action="/CoursePage/UpdateCourse/@SelectedCourse.CourseId">
+<label for="coursecode">COURSE CODE:</label>
+<input name="coursecode" id="coursecode" />
+<label for="teacherid" >TEACHER ID:</label>
+<input name="teacherid" id="teacherid" />
+<label for="startdate">START DATE:</label>
+<input name="startdate" id="startdate" />
+<label for="enddate">END DATE:</label>
+<input name="enddate" id="enddate" />
+<label for="coursename">COURSE NAME:</label>
+<input name="coursename" id="coursename" />
+<button type="submit">SUBMIT</button>
+</form>

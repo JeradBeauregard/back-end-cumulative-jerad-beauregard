@@ -1,0 +1,42 @@
+﻿@model cumulative_Jerad_Beauregard.Models.Teacher
+@{
+	var SelectedTeacher = ViewData["selectedteacher"] as Teacher;
+	
+}
+
+<style>
+
+	form {
+		display: flex;
+		flex-direction: column;
+	}
+	#nameError{
+		display: none;
+	}
+</style>
+<body>
+<h1>edit teacher: @SelectedTeacher.TeacherFName @SelectedTeacher.TeacherLName</h1>
+<div id="formcontainer">
+	<form name="updateteacher">
+		<input type="hidden" value="@SelectedTeacher.TeacherId" name="id" id="id" />
+		<div id="nameError">Please enter a first name</div>
+		<label for="firstname">FIRST NAME: </label>
+		<input name="firstname" id="firstname" />
+		<label for="lastname">LAST NAME: </label>
+		<input name="lastname" id="lastname" />
+		<label for="employeenumber">EMPLOYEE NUMBER: </label>
+		<input name="employeenumber" id="employeenumber" />
+		<label for="hiredate">HIRE DATE: </label>
+		<input name="hiredate" id="hiredate" />
+		<label for="salary">SALARY: </label>
+		<input name="salary" id="salary" />
+		<label for="phonenumber">Phone Number: </label>
+		<input name="phonenumber" id="phonenumber" />
+		<button type="submit">SUBMIT</button>
+	</form>
+</div>
+
+<a href="/TeacherPage/Lists"><h2>Return to Teachers</h2></a>
+	<script src="~/js/Scripts/TeacherScripts/Edit.js"></script>
+
+</body>

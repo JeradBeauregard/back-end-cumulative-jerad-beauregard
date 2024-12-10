@@ -1,0 +1,21 @@
+﻿@model cumulative_Jerad_Beauregard.Models.Teacher
+
+@{
+	var SelectedTeacher = ViewData["selectedteacher"] as Teacher;
+	var AllCourses = ViewData["courses"] as List<cumulative_Jerad_Beauregard.Models.Course>;
+
+}
+
+<h1>@SelectedTeacher.TeacherFName @SelectedTeacher.TeacherLName</h1>
+<p>Hired: @SelectedTeacher.HireDate.ToString("yyyy-M-d")</p>
+<p>Salary: @SelectedTeacher.Salary</p>
+<p>Employee Number: @SelectedTeacher.EmployeeNumber</p>
+<div><a href="/TeacherPage/Edit/@SelectedTeacher.TeacherId">Edit This Teacher</a></div>
+<div><a href="/TeacherPage/DeleteConfirm/@SelectedTeacher.TeacherId">Delete This Teacher</a></div>
+<div><a href="/TeacherPage/Lists">Return to Teachers list</a></div>
+
+@foreach(cumulative_Jerad_Beauregard.Models.Course CurrentCourse in AllCourses)
+{
+	<div><strong>COURSE NAME:</strong> @CurrentCourse.CourseName <strong>COURSE CODE:</strong> @CurrentCourse.CourseCode <strong>START DATE:</strong> @CurrentCourse.StartDate <strong>END DATE:</strong>  @CurrentCourse.FinishDate</div>
+}
+

@@ -1,0 +1,30 @@
+﻿@model cumulative_Jerad_Beauregard.Models.Student
+@{
+	var SelectedStudent = ViewData["selectedstudent"] as Student;
+
+}
+
+
+<style>
+
+	form {
+		display: flex;
+		flex-direction: column;
+	}
+
+</style>
+
+<h1>Edit Student: @SelectedStudent.StudentFName @SelectedStudent.StudentLName </h1>
+<form name = "updatestudent" method="post" action="/StudentPage/Update/@SelectedStudent.StudentId">
+<input type="hidden" value="@SelectedStudent.StudentId" />
+<label for="firstname">FIRST NAME:</label>
+<input name="firstname" id="firstname"/>
+<label for="lastname">LAST NAME:</label>
+<input name="lastname" id="lastname" />
+<label for="studentnumber">STUDENT NUMBER:</label>
+<input name="studentnumber" id="studentnumber" />
+<label for="enroldate">ENROLL DATE:</label>
+<input name="enroldate" id="enroldate" />
+<button type="submit">SUBMIT</button>
+</form>
+

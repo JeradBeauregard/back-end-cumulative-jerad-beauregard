@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\models\\teacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:models\\teacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\controllers\\courseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:controllers\\courseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\wwwroot\\js\\scripts\\teacherscripts\\edit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:wwwroot\\js\\scripts\\teacherscripts\\edit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\views\\teacherpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:views\\teacherpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|c:\\users\\jerad\\desktop\\back-end-cumulative\\cumulative-jerad-beauregard\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADCAB5C-64DE-46A0-82AA-26EF1B7F16D7}|cumulative-Jerad-Beauregard.csproj|solutionrelative:models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "Models\\SchoolDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:18:23.86Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\CourseAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseAPIController.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\CourseAPIController.cs",
+              "RelativeToolTip": "Controllers\\CourseAPIController.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAYwAgBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:46:57.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAYwPgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:44:47.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\TeacherAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherAPIController.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Controllers\\TeacherAPIController.cs",
+              "RelativeToolTip": "Controllers\\TeacherAPIController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:41:04.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherData.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Models\\TeacherData.cs",
+              "RelativeDocumentMoniker": "Models\\TeacherData.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Models\\TeacherData.cs",
+              "RelativeToolTip": "Models\\TeacherData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:39:03.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.js",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\wwwroot\\js\\Scripts\\TeacherScripts\\Edit.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Scripts\\TeacherScripts\\Edit.js",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\wwwroot\\js\\Scripts\\TeacherScripts\\Edit.js",
+              "RelativeToolTip": "wwwroot\\js\\Scripts\\TeacherScripts\\Edit.js",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-10T16:19:07.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\TeacherPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\TeacherPage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-cumulative\\cumulative-Jerad-Beauregard\\Views\\TeacherPage\\Edit.cshtml",
+              "RelativeToolTip": "Views\\TeacherPage\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:43:29.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
