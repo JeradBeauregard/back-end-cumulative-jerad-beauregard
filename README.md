@@ -7,6 +7,9 @@ Jerad Beauregard Back-End Cumulative
 ### **2. Description**
 This program allows the user to access information from a school database via a web interface.
 
+The script file for the edit view of the TeacherPage folder can be found at:
+cumulative-Jerad-Beauregard/wwwroot/js/Scripts/TeacherScripts/Edit.js
+
 ---
 
 ### **3. Features**
@@ -32,6 +35,12 @@ This program allows the user to access information from a school database via a 
 - User can Add a course through the web interface at ->http:/localhost:5016/CoursePage/New
 - Note Start date and end dates must be formatted like this: 2018-06-18
 - User can Delete a course through the web interface at -> http:/localhost:5016/CoursePage/DeleteConfirm/{id}
+- User can Update a teacher using Ajax through the web interface at -> http:/localhost:5016/TeacherPage/Edit/{id} 
+- Note: Hire date must be formatted like this: 2014-06-10 00:00:00
+- User can update a student through the web interface at -> http:/localhost:5016/StudentPage/Edit/{id}
+- Note: Enroll Date must be formatted like this: 2018-06-18
+- User can update a course through the web interface at ->  http:/localhost:5016/CoursePage/Edit/{id}
+- Note Start date and end dates must be formatted like this: 2018-06-18
 
 ### **5. Installation**
 - Must install and set up school database and insure that the connection data matches your local data (roots etc.)
